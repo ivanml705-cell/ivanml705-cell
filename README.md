@@ -1,6 +1,6 @@
 # 👋 Hola, soy Iván Martínez
 
-💻 Desarrollador Junior (DAM - CESUR)
+💻 Junior Backend Developer | DAM (CESUR)
 
 🚀 Tecnologías:
 - Java
