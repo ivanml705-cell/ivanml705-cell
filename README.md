@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Iván Martínez
 
-<!--
-**ivanml705-cell/ivanml705-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Junior (DAM - CESUR)
 
-Here are some ideas to get you started:
+🚀 Tecnologías:
+- Java
+- SQL / MySQL
+- Spring Boot
+- MongoDB
+- AWS
+- Inteligencia Artificial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Actualmente:
+- Prácticas en Datacontrol
+- Desarrollo backend con Java y DataFlex
+- Buscando primera oportunidad como desarrollador junior
+
+🔥 Proyecto destacado:
+👉 API REST de usuarios con Java + Spring Boot + MySQL
+
+🔗 LinkedIn:
+[https://www.linkedin.com/in/ivan-martínez-lorca-257b1b17a/](https://www.linkedin.com/in/iv%C3%A1n-mart%C3%ADnez-lorca-257b1b17a/)
