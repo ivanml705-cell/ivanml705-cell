@@ -32,6 +32,5 @@ Proyecto backend desarrollado con:
 - Validaciones
 - Manejo global de errores
 
-👉 En desarrollo: autenticación y seguridad
 🔗 LinkedIn:
 [https://www.linkedin.com/in/ivan-martínez-lorca-257b1b17a/](https://www.linkedin.com/in/iv%C3%A1n-mart%C3%ADnez-lorca-257b1b17a/)
