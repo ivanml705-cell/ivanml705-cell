@@ -15,9 +15,17 @@
 - Desarrollo backend con Java y DataFlex
 - Buscando primera oportunidad como desarrollador junior
 
-🔥 Proyecto destacado:
-👉 API REST de usuarios con Java + Spring Boot + MySQL
-## 🚀 API REST de Usuarios
+## 🚀 Proyecto principal
+
+### Task Manager API
+
+API REST desarrollada con Java 17 y Spring Boot, aplicando arquitectura
+por capas, DTOs, validaciones, manejo global de errores y persistencia
+con Spring Data JPA y MySQL.
+
+Incluye tests unitarios con Mockito y tests de integración con MockMvc y H2.
+
+🔗 https://github.com/ivanml705-cell/task-manager-api
 
 Proyecto backend desarrollado con:
 
